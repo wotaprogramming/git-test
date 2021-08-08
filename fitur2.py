@@ -1,0 +1,1 @@
+print("Ini isi dari fitur kedua")
