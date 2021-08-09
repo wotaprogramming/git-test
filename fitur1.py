@@ -1,2 +1,3 @@
 # ini isi fitur 1
-print("Ini fitur satu")
+print("Ini fitur 1")
+print("merubah di dev")
